@@ -50,14 +50,12 @@ Make sure you have [Node.js](https://nodejs.org/) (v18 or higher recommended) in
         npx playwright apiTest
 
   # 📂 Project Structure 
-  Plaintext
 ├── tests/
 │   └── api/             # API automation test scripts (.spec.ts)
 ├── test-data/           # Dynamic payloads, JSON schemas, and static mock data
 ├── playwright.config.ts # Global Playwright configurations (Base URLs, timeouts, headers)
 ├── package.json         # Project dependencies and script shortcuts
 └── README.md            # Project documentation
-
 
 
 
