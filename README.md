@@ -35,6 +35,16 @@ Make sure you have [Node.js](https://nodejs.org/) (v18 or higher recommended) in
    ```bash
    git clone [https://github.com/She7t2/apiTestingProeject.git](https://github.com/She7t2/apiTestingProeject.git)
    cd apiTestingProeject
-###Install project dependencies:
-```Bash
+Install project dependencies:
+```bash
 npm install
+Install Playwright browsers/dependencies (if prompted):
+
+
+
+
+
+
+
+
+
