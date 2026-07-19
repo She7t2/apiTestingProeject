@@ -59,6 +59,9 @@ Make sure you have [Node.js](https://nodejs.org/) (v18 or higher recommended) in
     ├── package.json         # Project dependencies and script shortcuts
     └── README.md            # Project documentation
 
+### 📊 Reporting & Logs
+Playwright automatically captures rich diagnostics upon test execution. Once the run finishes, you can view the detailed interactive HTML report showing request/response payloads, headers, and execution timelines:
+
 
 
 
