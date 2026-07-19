@@ -1,10 +1,6 @@
 # 🚀 Restful Booker API Testing Project
 
 <p align="center">
-  <img src="https://automationintesting.com/images/restfulbooker/logo.png" alt="Restful Booker Logo" width="300">
-</p>
-
-<p align="center">
   <strong>A professional API Automation Testing framework built using Playwright and TypeScript to validate the Restful Booker API platform.</strong>
 </p>
 
