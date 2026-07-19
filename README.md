@@ -36,43 +36,9 @@ Make sure you have [Node.js](https://nodejs.org/) (v18 or higher recommended) in
    git clone [https://github.com/She7t2/apiTestingProeject.git](https://github.com/She7t2/apiTestingProeject.git)
    cd apiTestingProeject
 
-Install project dependencies:
-
-Bash
+### Install project dependencies:
+```bash
 npm install
-Install Playwright browsers/dependencies (if prompted):
-
-Bash
-npx playwright install
-Running Tests
-Execute the full API test suite using the following commands:
-
-Run all tests:
-
-Bash
-npx playwright test
-Run tests in headed/UI mode:
-
-Bash
-npx playwright test --ui
-Run a specific test file:
-
-Bash
-npx playwright test tests/api/example.spec.ts
-📂 Project Structure
-Plaintext
-├── tests/
-│   └── api/             # API automation test scripts (.spec.ts)
-├── test-data/           # Dynamic payloads, JSON schemas, and static mock data
-├── playwright.config.ts # Global Playwright configurations (Base URLs, timeouts, headers)
-├── package.json         # Project dependencies and script shortcuts
-└── README.md            # Project documentation
-📊 Reporting & Logs
-Playwright automatically captures rich diagnostics upon test execution. Once the run finishes, you can view the detailed interactive HTML report showing request/response payloads, headers, and execution timelines:
-
-Bash
-npx playwright show-report
-
 
 
 
