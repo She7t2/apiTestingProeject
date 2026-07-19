@@ -49,9 +49,8 @@ Make sure you have [Node.js](https://nodejs.org/) (v18 or higher recommended) in
     ```bash 
         npx playwright apiTest
 
-  # 📂 Project Structure :
-
-  
+  # 📂 Project Structure 
+  ```text
 ├── tests/
 │   └── api/             # API automation test scripts (.spec.ts)
 ├── test-data/           # Dynamic payloads, JSON schemas, and static mock data
