@@ -1,7 +1,11 @@
-# 🚀 Playwright API Testing Framework
+# 🚀 Restful Booker API Testing Project
 
 <p align="center">
-  <strong>A professional, robust API Automation Testing project built using Playwright and TypeScript to ensure backend reliability and performance.</strong>
+  <img src="https://automationintesting.com/images/restfulbooker/logo.png" alt="Restful Booker Logo" width="300">
+</p>
+
+<p align="center">
+  <strong>A professional API Automation Testing framework built using Playwright and TypeScript to validate the Restful Booker API platform.</strong>
 </p>
 
 <p align="center">
@@ -13,14 +17,15 @@
 ---
 
 ## 📌 About The Project
-This project is an **End-to-End API Test Automation Framework**. Utilizing **Playwright's** powerful asynchronous request engine combined with **TypeScript's** strong typing, this suite validates API endpoints, status codes, payload schemas, and response times to ensure absolute backend integrity before production deployments.
+This repository is an **End-to-End API Test Automation Framework** targeting the **[Restful Booker API](https://restful-booker.herokuapp.com/)**. Utilizing Playwright's powerful request engine combined with TypeScript's strong typing, this suite validates essential CRUD operations (Create, Read, Update, Delete), authentication tokens, payload schemas, status codes, and response times.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Test Runner & Automation:** [Playwright Tool](https://playwright.dev/)
+- **Test Runner & Automation:** [Playwright](https://playwright.dev/)
 - **Programming Language:** [TypeScript](https://www.typescriptlang.org/)
-- **Runtime Environment:** Node.js
+- **Runtime Environment:** [Node.js](https://nodejs.org/)
+- **Target API Platform:** [Restful Booker Documentation](https://restful-booker.herokuapp.com/)
 
 ---
 
