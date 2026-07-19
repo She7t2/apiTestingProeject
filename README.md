@@ -50,7 +50,7 @@ Make sure you have [Node.js](https://nodejs.org/) (v18 or higher recommended) in
         npx playwright apiTest
 
   # 📂 Project Structure 
-  ```text
+      ```text
 
     ├── tests/
     │   └── api/             # API automation test scripts (.spec.ts)
